@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.container{
+    width: 30rem;
+    height: 15rem;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    display: box;
+    font-size: 35px;
+}
