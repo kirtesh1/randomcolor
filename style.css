@@ -3,9 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 body{
-    background-color: black;
+    transition: 2s;
 }
 .main{
     width: 100%;
@@ -34,3 +33,4 @@ button{
     display: box;
     font-size: 35px;
 }
+
